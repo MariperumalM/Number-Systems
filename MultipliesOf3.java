@@ -6,6 +6,7 @@ public class MultipliesOf3 {
             if(n%2 == 0 && n%3 == 0){
                 System.out.println(n);
             }
+            n++;
         }
     }
     
